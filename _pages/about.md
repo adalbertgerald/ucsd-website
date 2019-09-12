@@ -1,23 +1,38 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Adalbert Gerald</strong> Soosai Raj
+description:  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GeraldAtMountSoledad.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><i>Assistant Teaching Professor<br>
+    Computer Science and Engineering<br>
+    University of California, San Diego<br>
+    Email: gerald [at] eng [dot] ucsd [dot] edu<br>
+    Office: 2106 CSE Building (EUB3B)</i></p>
 
-news: true
-social: true
+news: false
+social: false
+order: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Teaching Professor in Computer Science and Engineering at the
+University of California, San Diego (UCSD). Prior to joining UCSD, I completed
+an interdisciplinary Ph.D. in Computer Sciences and Education at the University
+of Wisconsin-Madison (UW-Madison).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study equitable and effective ways to teach computing to a diverse set of
+learners. Specifically, I focus on designing and evaluating student-centered
+approaches for teaching computing to non-native English speakers; study the role
+of live-coding, an active learning technique to teach programming for beginning
+programmers; develop innovative methods to teach a second programming language
+to people who already know how to program in a different language.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I deeply care about diversity in computing. While at UW-Madion, I designed and
+developed a mobile app development workshop for increasing the participation of
+under represented minorities (women, people of color, latinx, etc) in computing;
+taught scratch programming to elementary school children in Madison; and lead
+numerous outreach activities to introduce computing to different types of people.
